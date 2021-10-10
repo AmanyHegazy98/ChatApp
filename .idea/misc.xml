@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/chat/app/src/main/res/drawable/background_left.xml" value="0.2703125" />
+        <entry key="..\:/chat/app/src/main/res/drawable/background_night.xml" value="0.2703125" />
+        <entry key="..\:/chat/app/src/main/res/drawable/chat2.xml" value="0.2574074074074074" />
+        <entry key="..\:/chat/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
+        <entry key="..\:/chat/app/src/main/res/drawable/custom_button_2.xml" value="0.26481481481481484" />
+        <entry key="..\:/chat/app/src/main/res/drawable/custom_chat.xml" value="0.25925925925925924" />
+        <entry key="..\:/chat/app/src/main/res/drawable/custom_email.xml" value="0.26481481481481484" />
+        <entry key="..\:/chat/app/src/main/res/drawable/custom_profile_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/chat/app/src/main/res/drawable/custom_progress_bar.xml" value="0.2703125" />
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_call.xml" value="0.25925925925925924" />
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_chat.xml" value="0.26481481481481484" />
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_icon2.xml" value="0.26481481481481484" />
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_slack_mark_web_copy.xml" value="0.26481481481481484" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_forget_password.xml" value="0.1109375" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_login.xml" value="0.136" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_main_chat.xml" value="0.2" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_main_page.xml" value="0.176" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_ringtone_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_video_chat.xml" value="0.152" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_voice_chat.xml" value="0.176" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_welcome_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/chat_item_left.xml" value="0.6" />
+        <entry key="..\:/chat/app/src/main/res/layout/chat_item_right.xml" value="0.6" />
+        <entry key="..\:/chat/app/src/main/res/layout/content_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/custom_call_items.xml" value="0.3653295128939828" />
+        <entry key="..\:/chat/app/src/main/res/layout/custom_groups_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/custom_message.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/custom_message_item.xml" value="0.37726723095526" />
+        <entry key="..\:/chat/app/src/main/res/layout/custom_people_item.xml" value="0.2" />
+        <entry key="..\:/chat/app/src/main/res/layout/emoji_text_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_calls.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_groups.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_message.xml" value="0.2" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_second.xml" value="0.1109375" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_setting.xml" value="0.24010416666666667" />
+        <entry key="..\:/chat/app/src/main/res/layout/fragment_settings.xml" value="0.264" />
+        <entry key="..\:/chat/app/src/main/res/layout/full_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/chat/app/src/main/res/menu/menu.xml" value="0.23125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90238936344",
+    "project_id": "chat-3c834",
+    "storage_bucket": "chat-3c834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90238936344:android:a1150985ea709250062a6d",
+        "android_client_info": {
+          "package_name": "com.amany.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90238936344-api5lsmm3uahi8sbaj03m9br1ng1c55s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBaR80iy_mqLAgo1wUU-xfy1dYcu9o_Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90238936344-api5lsmm3uahi8sbaj03m9br1ng1c55s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="17dp"
+    android:layout_marginTop="24dp"
+    android:layout_marginEnd="17dp"
+    android:gravity="end"
+    app:layout_constraintTop_toBottomOf="@+id/constraintLayout2">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout141"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_right"
+        android:orientation="vertical"
+        android:paddingStart="9dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="10dp"
+        android:paddingBottom="10dp"
+        >
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="200dp"
+            android:minHeight="200dp"
+            android:visibility="gone"
+            tools:srcCompat="@tools:sample/avatars"
+
+            />
+
+        <TextView
+            android:id="@+id/show_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/nunito"
+            android:text="this appli"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+
+            >
+
+        </TextView>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintFile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+
+
+         >
+
+            <ImageView
+                android:id="@+id/imageView20"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_marginBottom="1dp"
+                android:src="@drawable/pdf"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/file_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="25dp"
+                android:text="amanyhegazy..............."
+                android:paddingStart="10dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageView20"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </TextView>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:fontFamily="@font/nunito_light"
+            android:text="10.11 AM"
+            android:textColor="@color/browser_actions_bg_grey"
+            android:textSize="8sp"
+          >
+
+        </TextView>
+        <TextView
+            android:id="@+id/seen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:fontFamily="@font/nunito_light"
+            android:text="seen √"
+
+            android:textColor="@color/browser_actions_bg_grey"
+            android:textSize="8sp"
+            >
+
+        </TextView>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
